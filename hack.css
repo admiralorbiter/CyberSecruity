@@ -29,4 +29,12 @@ pre {
   margin: 0;
 }
 
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: blue;
+}
+
 /*# sourceMappingURL=hack.css.map */

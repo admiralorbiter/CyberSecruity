@@ -19,15 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63bd9333-3dd4-42d3-8869-6b9ba2973d8f" name="Default Changelist" comment="Adding stuff">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hack.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/typerwriter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/typing.css" afterDir="false" />
+    <list default="true" id="f61eac2b-46ea-4acf-890d-4b0ce28be121" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hack.css" beforeDir="false" afterPath="$PROJECT_DIR$/hack.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hack.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/hack.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hack.scss" beforeDir="false" afterPath="$PROJECT_DIR$/hack.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/july17.html" beforeDir="false" afterPath="$PROJECT_DIR$/july17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/securityquestions.html" beforeDir="false" afterPath="$PROJECT_DIR$/securityquestions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test3.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +39,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
-        <option value="SCSS File" />
-        <option value="HTML File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -47,16 +46,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1jhnucVglvmIDR1Hg4XlQA22otM" />
+  <component name="ProjectId" id="1jjkTQK4f7vD2dVmS6PDm7VZARA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mathrelayswebsite" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -68,66 +67,16 @@
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Jon Titor\WebstormProjects\CyberSecruity\emailoutgoingdata" />
-      <recent name="C:\Users\Jon Titor\WebstormProjects\CyberSecruity" />
-      <recent name="C:\Users\Jon Titor\WebstormProjects\CyberSecruity\recentlyopenedfiles" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Jon Titor\WebstormProjects\CyberSecruity" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="recentlyopenedfiles.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CyberSecruity/recentlyopenedfiles.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.recentlyopenedfiles.html" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="63bd9333-3dd4-42d3-8869-6b9ba2973d8f" name="Default Changelist" comment="" />
-      <created>1604265414308</created>
+      <changelist id="f61eac2b-46ea-4acf-890d-4b0ce28be121" name="Default Changelist" comment="" />
+      <created>1604324896105</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1604265414308</updated>
-      <workItem from="1604265415372" duration="5614000" />
-      <workItem from="1604272616878" duration="10799000" />
+      <updated>1604324896105</updated>
+      <workItem from="1604324897135" duration="4062000" />
     </task>
-    <task id="LOCAL-00001" summary="Adding stuff">
-      <created>1604271259681</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1604271259681</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Adding stuff">
-      <created>1604276013364</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1604276013364</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Adding stuff">
-      <created>1604279179812</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1604279179812</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Adding stuff">
-      <created>1604280672239</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1604280672239</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,40 +92,15 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adding stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding stuff" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="569" y="231" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604268471649">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="-1180" y="261" key="FileChooserDialogImpl" timestamp="1604324881769">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="569" y="231" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1604268471649" />
-    <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604283600676">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="-1180" y="261" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040/-627.-720.1280.680@-1920.0.1920.1040" timestamp="1604324881769" />
+    <state x="-1459" y="164" key="SettingsEditor" timestamp="1604326349183">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1604283600676" />
-    <state x="468" y="207" key="EditFileWatcherDialog" timestamp="1604285098899">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="468" y="207" key="EditFileWatcherDialog/0.0.1600.860@0.0.1600.860" timestamp="1604285098899" />
-    <state x="301" y="74" key="SettingsEditor" timestamp="1604285102569">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="301" y="74" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1604285102569" />
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1604280674875">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1604280674875" />
-    <state x="506" y="29" width="587" height="801" key="find.popup" timestamp="1604273437258">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="506" y="29" width="587" height="801" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1604273437258" />
-    <state x="456" y="195" key="run.anything.popup" timestamp="1604268492806">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1604268492806" />
+    <state x="-1459" y="164" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040/-627.-720.1280.680@-1920.0.1920.1040" timestamp="1604326349183" />
   </component>
 </project>
