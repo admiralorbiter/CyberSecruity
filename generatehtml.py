@@ -1,7 +1,11 @@
+#Generate 3 months of individual pages for recently opened files
+
 template = """
 <html>
 <head>
 <title>{title}</title>
+<link rel="stylesheet" href="hack.css">
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
 <center>

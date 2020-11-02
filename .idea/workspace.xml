@@ -19,17 +19,126 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f61eac2b-46ea-4acf-890d-4b0ce28be121" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    <list default="true" id="f61eac2b-46ea-4acf-890d-4b0ce28be121" name="Default Changelist" comment="adding stuff">
+      <change afterPath="$PROJECT_DIR$/edge example.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emailoutgoingdata/hack.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emailoutgoingdata/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loopexample.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/passwordgenerator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/passwordgeneratorexample.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recentlyopenedfiles/hack.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recentlyopenedfiles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hack.css" beforeDir="false" afterPath="$PROJECT_DIR$/hack.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hack.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/hack.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hack.scss" beforeDir="false" afterPath="$PROJECT_DIR$/hack.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/july17.html" beforeDir="false" afterPath="$PROJECT_DIR$/july17.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/securityquestions.html" beforeDir="false" afterPath="$PROJECT_DIR$/securityquestions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/emailoutgoingdata/week1.html" beforeDir="false" afterPath="$PROJECT_DIR$/emailoutgoingdata/week1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emailoutgoingdata/week10.html" beforeDir="false" afterPath="$PROJECT_DIR$/emailoutgoingdata/week10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emailoutgoingdata/week11.html" beforeDir="false" afterPath="$PROJECT_DIR$/emailoutgoingdata/week11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emailoutgoingdata/week12.html" beforeDir="false" afterPath="$PROJECT_DIR$/emailoutgoingdata/week12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emailoutgoingdata/week13.html" beforeDir="false" afterPath="$PROJECT_DIR$/emailoutgoingdata/week13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emailoutgoingdata/week2.html" beforeDir="false" afterPath="$PROJECT_DIR$/emailoutgoingdata/week2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emailoutgoingdata/week3.html" beforeDir="false" afterPath="$PROJECT_DIR$/emailoutgoingdata/week3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emailoutgoingdata/week4.html" beforeDir="false" afterPath="$PROJECT_DIR$/emailoutgoingdata/week4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emailoutgoingdata/week5.html" beforeDir="false" afterPath="$PROJECT_DIR$/emailoutgoingdata/week5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emailoutgoingdata/week6.html" beforeDir="false" afterPath="$PROJECT_DIR$/emailoutgoingdata/week6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emailoutgoingdata/week7.html" beforeDir="false" afterPath="$PROJECT_DIR$/emailoutgoingdata/week7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emailoutgoingdata/week8.html" beforeDir="false" afterPath="$PROJECT_DIR$/emailoutgoingdata/week8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emailoutgoingdata/week9.html" beforeDir="false" afterPath="$PROJECT_DIR$/emailoutgoingdata/week9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generatehtml.py" beforeDir="false" afterPath="$PROJECT_DIR$/generatehtml.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generatelinktopages.py" beforeDir="false" afterPath="$PROJECT_DIR$/generatelinktopages.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generatelinktopages2.py" beforeDir="false" afterPath="$PROJECT_DIR$/generatelinktopages2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outgoingemaildata.html" beforeDir="false" afterPath="$PROJECT_DIR$/outgoingemaildata.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/august1.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/august1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/august10.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/august10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/august11.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/august11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/august12.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/august12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/august13.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/august13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/august14.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/august14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/august15.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/august15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/august16.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/august16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/august17.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/august17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/august18.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/august18.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/august19.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/august19.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/august2.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/august2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/august20.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/august20.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/august21.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/august21.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/august22.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/august22.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/august23.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/august23.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/august24.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/august24.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/august25.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/august25.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/august26.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/august26.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/august27.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/august27.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/august28.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/august28.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/august29.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/august29.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/august3.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/august3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/august30.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/august30.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/august31.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/august31.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/august4.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/august4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/august5.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/august5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/august6.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/august6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/august7.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/august7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/august8.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/august8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/august9.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/august9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july1.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july10.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july11.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july12.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july13.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july14.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july15.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july16.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july17.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july18.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july18.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july19.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july19.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july2.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july20.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july20.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july21.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july21.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july22.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july22.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july23.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july23.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july24.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july24.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july25.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july25.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july26.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july26.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july27.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july27.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july28.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july28.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july29.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july29.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july3.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july30.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july30.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july31.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july31.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july4.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july5.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july6.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july7.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july8.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july9.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/june1.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/june1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/june10.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/june10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/june11.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/june11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/june12.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/june12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/june13.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/june13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/june14.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/june14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/june15.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/june15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/june16.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/june16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/june17.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/june17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/june18.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/june18.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/june19.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/june19.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/june2.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/june2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/june20.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/june20.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/june21.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/june21.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/june22.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/june22.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/june23.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/june23.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/june24.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/june24.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/june25.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/june25.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/june26.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/june26.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/june27.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/june27.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/june28.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/june28.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/june29.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/june29.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/june3.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/june3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/june30.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/june30.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/june4.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/june4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/june5.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/june5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/june6.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/june6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/june7.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/june7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/june8.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/june8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/june9.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/june9.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +149,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -53,9 +163,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mathrelayswebsite" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/recentlyopenedfiles" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -67,6 +178,17 @@
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admiralorbiter\WebstormProjects\CyberSecruity\recentlyopenedfiles" />
+      <recent name="C:\Users\admiralorbiter\WebstormProjects\CyberSecruity\emailoutgoingdata" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admiralorbiter\WebstormProjects\CyberSecruity" />
+      <recent name="C:\Users\admiralorbiter\WebstormProjects\CyberSecruity\recentlyopenedfiles" />
+      <recent name="C:\Users\admiralorbiter\WebstormProjects\CyberSecruity\emailoutgoingdata" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -75,8 +197,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604324896105</updated>
-      <workItem from="1604324897135" duration="4062000" />
+      <workItem from="1604324897135" duration="7005000" />
     </task>
+    <task id="LOCAL-00001" summary="adding stuff">
+      <created>1604329317234</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604329317234</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +223,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding stuff" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="-1180" y="261" key="FileChooserDialogImpl" timestamp="1604324881769">
       <screen x="-1920" y="0" width="1920" height="1040" />
@@ -102,5 +236,9 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1459" y="164" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040/-627.-720.1280.680@-1920.0.1920.1040" timestamp="1604326349183" />
+    <state x="-1442" y="67" key="Vcs.Push.Dialog.v2" timestamp="1604329322581">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1442" y="67" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040/-627.-720.1280.680@-1920.0.1920.1040" timestamp="1604329322581" />
   </component>
 </project>

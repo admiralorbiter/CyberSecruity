@@ -1,7 +1,11 @@
+#Generates page that links to all the weekly outgoing email data and generates each individual weeks page
+
 template = """
 <html>
 <head>
 <title>{title}</title>
+<link rel="stylesheet" href="hack.css">
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
 <center>
