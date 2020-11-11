@@ -11,7 +11,6 @@ body {
   text-shadow: 0 0 5px #C8C8C8;
   &::after {
     content: "";
-    position: absolute;
     top: 0;
     left: 0;
     width: 100vw;
@@ -38,4 +37,23 @@ a:link{
 }
 a:visited{
   color: white;
+}
+
+.split {
+  width: 50%;
+  position: absolute;
+  z-index: 1;
+  top: 50;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+/* Control the left side */
+.left {
+  left: 0;
+}
+
+/* Control the right side */
+.right {
+  right: 0;
 }

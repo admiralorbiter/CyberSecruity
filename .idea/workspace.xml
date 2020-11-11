@@ -20,42 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f61eac2b-46ea-4acf-890d-4b0ce28be121" name="Default Changelist" comment="adding stuff">
-      <change afterPath="$PROJECT_DIR$/incomingemails/email10.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/incomingemails/email4.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/incomingemails/email4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/incomingemails/email7.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/incomingemails/email7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/incomingemails/email9.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/incomingemails/email910.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/incomingemails/hack.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recentlyopenedfiles/installexe_code.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recentlyopenedfiles/lesson_detail_code.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/twitter.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vectorchart.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/virushacks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/networkflow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/networkflowgraph.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Case One - Twitter.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/binaryanalysiis.html" beforeDir="false" afterPath="$PROJECT_DIR$/binaryanalysiis.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/binaryanalysis.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/binaryanalysis.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/computerspecs.html" beforeDir="false" afterPath="$PROJECT_DIR$/computerspecs.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/emailoutgoingdata/hack.css" beforeDir="false" afterPath="$PROJECT_DIR$/emailoutgoingdata/hack.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emailoutgoingdata/hack.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/emailoutgoingdata/hack.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/emailoutgoingdata/hack.scss" beforeDir="false" afterPath="$PROJECT_DIR$/emailoutgoingdata/hack.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/emailoutgoingdata/week13.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hack.css" beforeDir="false" afterPath="$PROJECT_DIR$/hack.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hack.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/hack.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hack.scss" beforeDir="false" afterPath="$PROJECT_DIR$/hack.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/incomingmail.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/incomingmail.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/incomingmail.html" beforeDir="false" afterPath="$PROJECT_DIR$/incomingmail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/july17.html" beforeDir="false" afterPath="$PROJECT_DIR$/july17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incomingemails/hack.scss" beforeDir="false" afterPath="$PROJECT_DIR$/incomingemails/hack.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outgoingemaildata.html" beforeDir="false" afterPath="$PROJECT_DIR$/outgoingemaildata.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/passwordgenerator.html" beforeDir="false" afterPath="$PROJECT_DIR$/passwordgenerator.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/hack.css" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/hack.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/hack.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/hack.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/hack.scss" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/hack.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recentlyopenedfiles/july17.html" beforeDir="false" afterPath="$PROJECT_DIR$/recentlyopenedfiles/july17.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/securityquestions.html" beforeDir="false" afterPath="$PROJECT_DIR$/securityquestions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/selectemails.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/twitter.html" beforeDir="false" afterPath="$PROJECT_DIR$/twitter.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,9 +75,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admiralorbiter\WebstormProjects\CyberSecruity" />
       <recent name="C:\Users\admiralorbiter\WebstormProjects\CyberSecruity\recentlyopenedfiles" />
       <recent name="C:\Users\admiralorbiter\WebstormProjects\CyberSecruity\incomingemails" />
-      <recent name="C:\Users\admiralorbiter\WebstormProjects\CyberSecruity" />
       <recent name="C:\Users\admiralorbiter\WebstormProjects\CyberSecruity\emailoutgoingdata" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -117,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604324896105</updated>
       <workItem from="1604324897135" duration="9727000" />
-      <workItem from="1604593568196" duration="15619000" />
+      <workItem from="1604593568196" duration="18267000" />
     </task>
     <task id="LOCAL-00001" summary="adding stuff">
       <created>1604329317234</created>
@@ -140,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604763200624</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adding stuff">
+      <created>1604877766728</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604877766728</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,10 +160,10 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1459" y="164" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040/-627.-720.1280.680@-1920.0.1920.1040" timestamp="1604326349183" />
-    <state x="-1442" y="67" key="Vcs.Push.Dialog.v2" timestamp="1604763225670">
+    <state x="-1442" y="67" key="Vcs.Push.Dialog.v2" timestamp="1604877768842">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1442" y="67" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040/-627.-720.1280.680@-1920.0.1920.1040" timestamp="1604763225670" />
+    <state x="-1442" y="67" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040/-627.-720.1280.680@-1920.0.1920.1040" timestamp="1604877768842" />
     <state x="478" y="67" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040/-627.-720.1280.680@0.0.1920.1040" timestamp="1604341354985" />
     <state x="-1297" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1604866104592">
       <screen x="-1920" y="0" width="1920" height="1040" />
