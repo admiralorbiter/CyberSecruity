@@ -8,9 +8,9 @@ def getFile():
     elif r==2:
          return "No files opened on this date"
     elif r==3:
-        return "Demon Days.mp3"
+        return "Album - Demon Days.mp3"
     elif r==4:
-        return "Demon Days.mp3"
+        return "Album - Demon Days.mp3"
     elif r==5:
         return "lessonplan.txt"
     
